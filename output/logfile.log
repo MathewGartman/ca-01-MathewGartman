@@ -1,7 +1,4 @@
-INFO 2023-02-06 13:37:04,519 - Logging initialized.
-INFO 2023-02-06 13:37:04,914 - Image loading succeeded.
-INFO 2023-02-06 13:37:05,448 - Image saving succeeded.
-INFO 2023-02-06 13:37:05,628 - Color to gray operation succeeded.
-INFO 2023-02-06 13:37:07,132 - Image threshold operation succeeded.
-INFO 2023-02-06 13:37:07,752 - Image rotation operation succeeded.
-INFO 2023-02-06 13:37:08,765 - Image rotation with inverse mapping operation succeeded.
+INFO 2023-02-20 22:26:09,769 - Logging initialized.
+INFO 2023-02-20 22:26:11,848 - Image loading succeeded.
+INFO 2023-02-20 22:28:50,475 - Image saving succeeded.
+ERROR 2023-02-20 22:28:50,487 - Error in converting image to gray scale.

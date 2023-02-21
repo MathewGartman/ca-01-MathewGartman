@@ -144,5 +144,6 @@ def main():
         output_image_name = outputDir + 'rotated_image_inv' + ".pgm"
         rotated_image.save_image(output_image_name)
 
+
 if __name__ == "__main__":
     main()
